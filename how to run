@@ -1,0 +1,4 @@
+gcc filename.cpp
+./a.out
+
+  
